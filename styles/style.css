@@ -263,22 +263,24 @@
   margin-bottom: 40px;
 }
 
-.footer__column_content_copyright{
+.footer__column{
   display: flex;
-  flex-basis:711px;
   flex-direction: column;
+}
+
+
+
+.footer__column_content_copyright{
+  flex-basis:711px;
   justify-content: space-between;
 }
 
-
 .footer__column_conent_info{
-  display: flex;
-  flex-direction: column;
+
 }
 
 .footer__column_conent_social{
-  display: flex;
-  flex-direction: column;
+
 }
 
 .footer__author{
