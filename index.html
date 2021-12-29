@@ -15,7 +15,7 @@
       <h1 class="header__title">Научиться учиться</h1>
       <p class="header__subtitle">
         Как современные и эффективные подходы к обучению вы можете использовать в своей жизни?
-        <a class="header__link" href="#">Узнать-></a>
+        <a class="header__link" href="#start">Узнать-></a>
       </p>
       <img src="./images/header-image.png" alt="Грустный мальчик" class = "header__main-illustration">
       <div class="header__square-pic"></div>
@@ -23,7 +23,7 @@
 
     <main class="content">
 
-      <section class="description">
+      <section class="description" id="start">
        <div class="two-columns">
          <h3 class="two-columns__brief">Главные проблемы в обучении</h3>
          <div class="two-columns__main-text">
@@ -76,10 +76,10 @@
       <section class="feynman">
         <h2 class="feynman__title">Метод Фейнмана</h2>
         <h3 class="feynman__subtitle">Выучить и не забыть</h3>
-        <a class="feynamn__link" href="#">Подробнее -></a>
+        <a class="feynamn__link" href="#rules">Подробнее -></a>
       </section>
 
-      <section class="kaufman">
+      <section class="kaufman" id="rules">
         <h2 class="section-title section-title_theme_dark">Принципы обучения</h2>
         <h2 class="section-subtitle section-subtitle_theme_dark">от Джоша Кауфмана</h2>
         <ul class="table table_theme_dark">
@@ -136,11 +136,20 @@
       </div>
       <div class="footer__column_content_info">
         <h5 class="footer__column-heading">О Практикуме</h5>
-        <div class="footer__column-links"></div>
+        <nav class="footer__column-links">
+          <a href="https://practicum.yandex.ru/web/" class="footer__column-links">Главная</a>
+          <a href="https://practicum.yandex.ru/web/#Demo" class="footer__column-links">Концепция</a>
+          <a href="https://practicum.yandex.ru/web/#Team" class="footer__column-links">Наставники</a>
+        </nav>
       </div>
       <div class="footer__column_content_social">
-        <div class="footer__social-icon"></div>
-        <div class="footer__column-link"></div>
+        <h5 class="footer__column-heading">Соцсети</h5>
+        <nav class="footer__column-links">
+          <a href="https://www.facebook.com/yandex.practicum/" class="footer__column-link"><img src="./images/facebook_color_white.svg" alt="Facebook" class="footer__social-icon">Facebook</a>
+          <a href="https://vk.com/yandex.practicum" class="footer__column-link"><img src="./images/vk_color_white.svg" alt="Вконтакте" class="footer__social-icon">Вконтакте</a>
+          <a href="https://www.instagram.com/yndx.praktikum/?hl=en" class="footer__column-link"><img src="./images/instagram_color_white.svg" alt="Instagram" class="footer__social-icon">Instagram</a>
+        </nav>
+
       </div>
      </div>
     </footer>
