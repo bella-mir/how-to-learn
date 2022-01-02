@@ -5,6 +5,8 @@
   font-family: 'Helvetica Neue', Arial, sans-serif;
 }
 
+/* Header */
+
 .header {
   height: 100vh;
   min-height: 600px;
@@ -75,10 +77,8 @@
   background-repeat: no-repeat;
 }
 
-.logo_place_footer{
-  background-image: url("../images/logo_place_footer.svg");
-  background-repeat: no-repeat;
-}
+
+/* Content */
 
 .two-columns{
   display: flex;
@@ -242,6 +242,9 @@
   margin-right: 0;
 }
 
+
+/* Footer */
+
 .footer{
   display: flex;
   background-color: #1f1f1f;
@@ -273,7 +276,7 @@
 .footer__author{
   line-height: 25px;
   font-size:18px;
-  margin: 18px auto 18px auto;
+  margin: 18px 0 18px 0;
 }
 
 .footer__column-heading{
@@ -308,6 +311,11 @@
   font-style: normal;
   z-index: 1;
   text-decoration: none;
+}
+
+.logo_place_footer{
+  background-image: url("../images/logo_place_footer.svg");
+  background-repeat: no-repeat;
 }
 
 
