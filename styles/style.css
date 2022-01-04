@@ -308,6 +308,9 @@
   flex-direction: column;
   color: white;
   text-decoration: none;
+  list-style-type: none;
+  padding:0;
+  margin:0;
 }
 
 .footer__social-icon{
@@ -319,12 +322,12 @@
 .footer__column-link{
   display: flex;
   align-items: center;
-  color: white;
   line-height: 30px;
   font-size: 18px;
   font-style: normal;
   z-index: 1;
   text-decoration: none;
+  color: white;
 }
 
 .logo_place_footer{
