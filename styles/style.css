@@ -310,7 +310,7 @@
   text-decoration: none;
   list-style-type: none;
   padding:0;
-  margin:0;
+  margin:0 0 16px;
 }
 
 .footer__social-icon{
