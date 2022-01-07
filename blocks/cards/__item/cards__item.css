@@ -1,0 +1,6 @@
+.cards__item{
+  width: 240px;
+  margin:0;
+  z-index: 2;
+  text-align: center;
+}
