@@ -1,7 +1,7 @@
 .two-columns__main-text{
-  min-width:784px;
-  width:80%;
+  min-width: 784px;
+  width: 80%;
   justify-content: space-between;
-  right:0;
+  right: 0;
   flex-direction: column;
 }

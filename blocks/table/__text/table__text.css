@@ -1,10 +1,10 @@
 .table__text{
   line-height: 1.2;
-  font-size:18px;
+  font-size: 18px;
   font-weight: 400;
   margin: 0 auto 20px auto;
 }
 
 .table__text:last-child{
-  margin-bottom:0;
+  margin-bottom: 0;
 }
