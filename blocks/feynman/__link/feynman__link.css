@@ -9,3 +9,7 @@
   color: #2f80ed;
   text-decoration: none;
 }
+
+.feynman__link:hover{
+  opacity:0.5;
+}
