@@ -14,8 +14,6 @@
 @import url(../blocks/footer/__author/footer__author.css);
 @import url(../blocks/footer/__column/footer__column.css);
 @import url(../blocks/footer/__column/_content/footer__column_content_copyright.css);
-@import url(../blocks/footer/__column/_content/footer__column_content_info.css);
-@import url(../blocks/footer/__column/_content/footer__column_content_social.css);
 @import url(../blocks/footer/__column-heading/footer__column-heading.css);
 @import url(../blocks/footer/__column-link/footer__column-link.css);
 @import url(../blocks/footer/__column-links/footer__column-links.css);
@@ -54,8 +52,6 @@
 @import url(../blocks/table/__text/table__text.css);
 @import url(../blocks/table/__text/_theme/table__text_theme_dark.css);
 
-@import url(../blocks/table/__theme/table_theme_dark.css);
-
 @import url(../blocks/two-columns/two-columns.css);
 @import url(../blocks/two-columns/__brief/two-columns__brief.css);
 @import url(../blocks/two-columns/__main-text/two-columns__main-text.css);
@@ -67,12 +63,10 @@
 @import url(../blocks/techniques/techniques.css);
 
 @import url(../blocks/cards/cards.css);
-@import url(../blocks/cards/__description/cards__description.css);
 @import url(../blocks/cards/__image/cards__image.css);
 @import url(../blocks/cards/__item/cards__item.css);
 @import url(../blocks/cards/__title/cards__title.css);
 
-@import url(../blocks/video/video.css);
 @import url(../blocks/video/__iframe/video__iframe.css);
 @import url(../blocks/video/__iframes/video__iframes.css);
 
@@ -81,7 +75,6 @@
 @import url(../blocks/khan/khan.css);
 @import url(../blocks/khan/__container/khan__container.css);
 @import url(../blocks/khan/__author/khan__author.css);
-@import url(../blocks/khan/__book/khan__book.css);
 @import url(../blocks/khan/__book-container/khan__book-container.css);
 @import url(../blocks/khan/__book-pic/khan__book-pic.css);
 @import url(../blocks/khan/__buy-link/khan__buy-link.css);
