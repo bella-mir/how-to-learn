@@ -1,10 +1,33 @@
-# Научиться учиться
-> Проект о том, что образовательные возможности безграничны!
+# Project:  "How to learn"
 
 
-## Общая информация
-- Представленная веб-страница написана с использованием языков HTML и CSS.
-- Это проектная работа, выполненная во время обучения на программе "Веб разработчик" от Яндекс Практикума по итогам первых двух спринтов, охватывающих базу HTML и CSS.
-- В проекте использована методология БЭМ
+## Created as one of the [Yandex.Praktikum](https://praktikum.yandex.com/) Bootcamp projects
 
+[Github Pages](https://belka-mironova.github.io/how-to-learn/)
+
+**Description**
+
+"How to learn" is a single page website about unlimited educational opportunities.
+
+
+Flexbox
+Positioning Elements
+
+
+### Installation
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/belka-mironova/how-to-learn.git
+   ```
+
+## Functionality: 
+
+*Flexbox
+*Positioning Elements
+*CSS Animation
+
+## Languages: 
+
+* HTML, CSS 
 
