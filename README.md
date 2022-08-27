@@ -23,9 +23,9 @@ Positioning Elements
 
 ## Functionality: 
 
-*Flexbox
-*Positioning Elements
-*CSS Animation
+* Flexbox
+* Positioning Elements
+* CSS Animation
 
 ## Languages: 
 
