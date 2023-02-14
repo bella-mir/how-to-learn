@@ -3,7 +3,7 @@
 
 ## Created as one of the [Yandex.Praktikum](https://praktikum.yandex.com/) Bootcamp projects
 
-[Github Pages](https://belka-mironova.github.io/how-to-learn/)
+[Github Pages](https://bella-mir.github.io/how-to-learn/)
 
 **Description**
 
@@ -18,7 +18,7 @@ Positioning Elements
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/belka-mironova/how-to-learn.git
+   git clone https://github.com/bella-mir/how-to-learn.git
    ```
 
 ## Functionality: 
